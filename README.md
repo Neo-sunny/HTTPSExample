@@ -1,7 +1,7 @@
 # HTTPSExample
 This is an example to set up an HTTPS Node server using Express framework.
 
-How To run the Project:
+# How to run the Project:-
 
 1. Download and install Node and Npm from the sites given below
 https://nodejs.org/en/download/

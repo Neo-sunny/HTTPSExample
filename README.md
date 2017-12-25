@@ -5,7 +5,8 @@ This is an example to set up an HTTPS Node server using Express framework.
 
 1. Download and install Node and Npm from the [Node Site](https://nodejs.org/en/download/).
 
-Note: On Windows machines, you may need to configure your PATH environmental variable in case you forgot to turn on the add to PATH during the installation steps.
+   ## Note: On Windows Machines
+   you may need to configure your PATH environmental variable in case you forgot to turn on the add to PATH during the        installation steps.
 
 2. Verifying the Node Installation
 
